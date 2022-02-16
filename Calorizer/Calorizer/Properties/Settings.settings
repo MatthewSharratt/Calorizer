@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Calorizer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ControlBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">104, 104, 104</Value>
+    </Setting>
+    <Setting Name="ControlForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">254, 254, 254</Value>
+    </Setting>
+    <Setting Name="ApplicationBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">63, 63, 63</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
